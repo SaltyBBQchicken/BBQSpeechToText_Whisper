@@ -3,7 +3,7 @@ A Standalone Windows 11 C# Implementation of OpenAI's Whisper models. A Whisper 
 No internet or connection required. It's purely standalone and runs on your system only.  No voice data is sent  to any cloud service. 
 
 Whisper model downloads.  Other models may work but have not been tested. 
-All 4 models can be changed during runtime. 
+All 4 models can be changed during runtime.  Simply copy the models(.bin) in to the subdirectory (/Models/) and the program will automatically detect them and add them to the models list. 
 
 https://huggingface.co/ggerganov/whisper.cpp
 
