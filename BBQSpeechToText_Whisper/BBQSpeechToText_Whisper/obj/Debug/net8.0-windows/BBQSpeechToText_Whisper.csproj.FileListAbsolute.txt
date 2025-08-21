@@ -1,0 +1,7 @@
+E:\AI_Projects\BBQSpeechToText_Whisper\BBQSpeechToText_Whisper\obj\Debug\net8.0-windows\BBQSpeechToText_Whisper.MainForm.resources
+E:\AI_Projects\BBQSpeechToText_Whisper\BBQSpeechToText_Whisper\obj\Debug\net8.0-windows\BBQSpeechToText_Whisper.csproj.GenerateResource.cache
+E:\AI_Projects\BBQSpeechToText_Whisper\BBQSpeechToText_Whisper\obj\Debug\net8.0-windows\BBQSpeechToText_Whisper.GeneratedMSBuildEditorConfig.editorconfig
+E:\AI_Projects\BBQSpeechToText_Whisper\BBQSpeechToText_Whisper\obj\Debug\net8.0-windows\BBQSpeechToText_Whisper.AssemblyInfoInputs.cache
+E:\AI_Projects\BBQSpeechToText_Whisper\BBQSpeechToText_Whisper\obj\Debug\net8.0-windows\BBQSpeechToText_Whisper.AssemblyInfo.cs
+E:\AI_Projects\BBQSpeechToText_Whisper\BBQSpeechToText_Whisper\obj\Debug\net8.0-windows\BBQSpeechToText_Whisper.csproj.CoreCompileInputs.cache
+E:\AI_Projects\BBQSpeechToText_Whisper\BBQSpeechToText_Whisper\obj\Debug\net8.0-windows\BBQSpeechToText_Whisper.csproj.AssemblyReference.cache

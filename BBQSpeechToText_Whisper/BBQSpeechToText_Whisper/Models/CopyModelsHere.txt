@@ -1,0 +1,9 @@
+Whisper model downloads.  Other models may work but have not been tested. 
+All 4 models can be changed during runtime. 
+
+https://huggingface.co/ggerganov/whisper.cpp
+
+ggml-large-v3.bin
+ggml-large-v3-turbo.bin
+ggml-medium.bin
+ggml-tiny.en.bin
