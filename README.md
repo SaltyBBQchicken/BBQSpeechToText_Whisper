@@ -47,7 +47,7 @@ Copy the clipboard: Will copy the Transcription onto the clipboard.
  
 Save Wave Toggle: will save the voice recording to a WAV file within the Out directory.  This is good to check  volume levels and can be disabled so it does not save any files. 
 
-Save Transcript: can be used to toggle saving transcripts to a text file within the out directory. This can also be disabled. 
+Save Transcript: can be used to toggle saving transcripts to a text file within the Transcript directory. This can also be disabled. 
 
 Select Model: will populate with the models within the models directory and can be changed at runtime.  This is useful to help with selecting lower models for slower PCs.  Changing models were prompt to restart the application to load the new model. 
 
